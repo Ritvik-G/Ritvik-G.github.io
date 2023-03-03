@@ -1,0 +1,30 @@
+.profile-image{
+    width: 50%;
+    justify-self: flex-end;
+    border-radius: 0px 15px 15px 0px;
+}
+.profile-content{
+    margin: 3%;
+}
+
+.profile-card{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-left: 15%;
+    margin-right: 15%;
+    border-radius: 15px;
+    justify-content: space-between;
+    background-color:#f1f5f9;
+}
+
+@media (max-width: 950px) {
+    .profile-card{
+        flex-direction: column-reverse;
+        background-color: #fff;
+    }
+    .profile-image{
+        border-radius: 5%;
+        margin-bottom: 3%;
+    }
+}
