@@ -1,10 +1,9 @@
-import React, { useState, useEffect } from 'react';
+import React from 'react';
 import GitHubCalendar from 'react-github-calendar';
-import Heatmap from 'react-calendar-heatmap';
 import 'react-calendar-heatmap/dist/styles.css';
 import './Projects.css';
 
-const Projects = () => {
+function Projects(){
 
     return (
         <div className='projects'>
