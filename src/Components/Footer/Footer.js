@@ -11,7 +11,7 @@ function Footer() {
               <FaGithub/>
             </a>
             &emsp;
-            <a href='https://github.com/Ritvik-G' className='text-reset'>
+            <a href='https://www.linkedin.com/in/ritvikg/' className='text-reset'>
               <FaLinkedinIn/>
             </a> 
           </div>

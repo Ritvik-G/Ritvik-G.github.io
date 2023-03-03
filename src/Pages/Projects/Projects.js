@@ -1,6 +1,5 @@
 import React from 'react';
 import GitHubCalendar from 'react-github-calendar';
-import 'react-calendar-heatmap/dist/styles.css';
 import './Projects.css';
 
 function Projects(){
