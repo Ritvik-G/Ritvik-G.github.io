@@ -2,7 +2,7 @@
   "name": "ritvik-g.github.io",
   "version": "0.1.0",
   "private": false,
-  "homepage": "https://ritvikg.com/",
+  "homepage": "https://ritvikg.com/#",
   "dependencies": {
     "bootstrap": "^5.2.3",
     "mdb-react-ui-kit": "^5.1.0",
