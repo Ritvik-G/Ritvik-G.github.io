@@ -2,14 +2,13 @@ import Container from 'react-bootstrap/Container';
 import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
 import Offcanvas from 'react-bootstrap/Offcanvas';
-import { Link } from 'react-router-dom';
 
 function navbar(){
     return(
         <>
                 <Navbar key='md' variant="light" expand='md' className="mb-3">
                 <Container fluid>
-                    <Navbar.Brand href="/">&emsp; Ritvik G</Navbar.Brand>
+                    <Navbar.Brand href="/#">&emsp; Ritvik G</Navbar.Brand>
                     <Navbar.Toggle aria-controls={`offcanvasNavbar-expand-md`} />
                     <Navbar.Offcanvas 
                     id={`offcanvasNavbar-expand-md`} 
@@ -23,9 +22,9 @@ function navbar(){
                     </Offcanvas.Header>
                     <Offcanvas.Body>
                         <Nav className="justify-content-end flex-grow-1 ">
-                        <Nav.Link href="about">About</Nav.Link>
-                        <Nav.Link href="projects">Projects</Nav.Link>
-                        <Nav.Link href="contact">Contact</Nav.Link>
+                        <Nav.Link href="#/about">About</Nav.Link>
+                        <Nav.Link href="#/projects">Projects</Nav.Link>
+                        <Nav.Link href="#/contact">Contact</Nav.Link>
                         &emsp; &emsp; &emsp;
                         </Nav>
                     </Offcanvas.Body>

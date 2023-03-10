@@ -19,7 +19,7 @@ function Projects(){
                     &emsp; Below, you'll find a selection of my publically available projects, along with a brief overview 
                     and attached documentation. 
                     If you have any questions or would like to discuss a potential project, 
-                    please don't hesitate to <a href='/contact' style={{textDecoration:"none"}}>contact</a> me. 
+                    please don't hesitate to <a href='#/contact' style={{textDecoration:"none"}}>contact</a> me. 
                     I'm always excited to hear about new opportunities and collaborations.
                 </p>
             </div>
