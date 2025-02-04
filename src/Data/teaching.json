@@ -1,0 +1,31 @@
+{
+    "Teaching": [
+        {
+            "role": "Lab Assistant",
+            "type" : "Assistant",
+            "course" : "Introduction to Computer Concepts  - CSCE101",
+            "description": "Aiding students in understanding Computer Concepts via programming with python.",
+            "organization": "University of South Carolina",
+            "link":"https://sc.edu/",
+            "duration": "Spring 2025, Fall 2024"
+        },
+        {
+            "role": "Lab Assistant",
+            "type" : "Assistant",
+            "course" : "General Applications Programming - CSCE102",
+            "description": "Assisting students in conceptualizing General Applications of Programming via HTML, CSS and Javascript.",
+            "organization": "University of South Carolina",
+            "link":"https://sc.edu/",
+            "duration": "Spring 2025, Fall 2024"
+        },
+        {
+            "role": "Teaching Assistant",
+            "type" : "Assistant",
+            "course" : "Operating Systems - CS202",
+            "description": "Taught Operating Systems Course - CS202 to 150 students across 2 batches.",
+            "organization": "NIT Andhra Pradesh",
+            "link":"https://nitandhra.ac.in/main/",
+            "duration": "Fall 2023"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "Certifications": [
+      {
+        "name": "GIAN Course",
+        "issuer": "Ministry of Education, Govt. of India",
+        "description": "A Technical Overview on Public and Private Blockchains",
+        "date": "Feb 2022"
+      },
+      {
+        "name": "NVIDIA DLI",
+        "issuer": "NVIDIA",
+        "description": "Fundamentals of Deep Learning",
+        "date": "Sept 2021"
+      },
+      {
+        "name": "Stanford Online",
+        "issuer": "Coursera",
+        "description": "Machine Learning",
+        "date": "Dec 2020"
+      },
+      {
+        "name": "E&ICT IIT Roorkee",
+        "issuer": "EICT Academy IIT Roorkee",
+        "description": "Python for Machine Learning",
+        "date": "Jun 2020"
+      },
+      {
+        "name": "MTA",
+        "issuer": "Microsoft",
+        "description": "Introduction to Programming using Python",
+        "date": "May 2020"
+      }
+    ]
+  }
+  

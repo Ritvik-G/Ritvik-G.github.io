@@ -1,0 +1,28 @@
+{
+    "Projects": [
+      {
+        "title": "GEAR-UP : Automated query development and translation",
+        "type" : "Research",
+        "description": "GearUp is an innovative collaboration between the Artificial Intelligence Institute at South Carolina and the University Libraries at the University of South Carolina. The project aims to streamline the process of conducting systematic reviews by automating query development and translation.",
+        "organization": "AI Institute at UofSC",
+        "link":"https://gearup.aiisc.cse.sc.edu/",
+        "duration": "Jan 2024 - May 2024"
+      },
+      {
+        "title": "Kaatru : Providing hyperlocal air quality insights",
+        "type" : "Research",
+        "description": "Developed a full-stack web application for Kaatru using the MERN (MongoDB, Express.js, React.js, Node.js) stack. Integrated time series and historic data through APIs to create an interractive interface consisting of embedded maps to visually represent weather and road conditions, enabling users to make informed decisions for optimal route planning between source and destination.",
+        "organization": "IIT Madras",
+        "link":"https://www.kaatru.org/",
+        "duration": "Jun 2022 - Aug 2022"
+      },
+      {
+        "title": "AlmaConnect : NIT Andhra's Alumni Association",
+        "type" : "Front-End Development",
+        "description": "Developed NIT Andhra's alumni web portal with embedded calendar feature.",
+        "organization": "NIT Andhra Pradesh",
+        "link":"https://almaconnect-nitandhra.github.io/",
+        "duration": "Oct 2021 - Jun 2022"
+      }
+    ]
+}

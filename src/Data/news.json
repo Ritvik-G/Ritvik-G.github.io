@@ -1,0 +1,26 @@
+{
+    "News": [
+      {
+        "title": "Media Coverage",
+        "organization": "Analytics India Magazine",
+        "link" : "https://analyticsindiamag.com/ai-features/indian-universities-desperately-need-to-update-their-outdated-cs-curriculum/",
+        "description": "Featured in India's largest AI magazineover discussion of CS curriculum in Indian universities.",
+        "date": "2025-01-03"
+      },
+      {
+        "title": "Paper Published",
+        "organization": "ACM Transactions on Computing for Healthcare",
+        "link" : "https://scholarcommons.sc.edu/aii_fac_pub/623/",
+        "description": "Journal paper exploring the effectiveness of LLMs for assisting Mental health diagnosis assessments published at ACM.",
+        "date": "2025-01-02"
+      },
+      {
+        "title": "Media Coverage",
+        "organization": "Analytics India Magazine",
+        "link" : "https://analyticsindiamag.com/it-services/ai-research-at-indian-universities-feels-like-a-solo-journey/",
+        "description": "Featured in India's largest AI magazine over discussion of AI research landscape in India.",
+        "date": "2024-12-21"
+      }
+    ]
+  }
+  

@@ -1,0 +1,55 @@
+{
+    "Volunteering": [
+        {
+            "role": "Secretary General",
+            "organization": "AlmaConnect NIT Andhra",
+            "link":"https://almaconnect-nitandhra.github.io/",
+            "category" : "Community",
+            "type": "Alumni Outreach & Student Assistance",
+            "description": "Working towards connecting alumni to their alma mater and assisting students in their professional endeavours.",
+            "duration": "Sept 2024 - Present",
+            "location" : "Remote"
+        },
+        {
+            "role": "GDSC Lead",
+            "organization": "Google Developer Groups",
+            "link":"https://gdsc-nitandhra.vercel.app/",
+            "category" : "Technology & Innovation",
+            "type": "Software Development & Tech for Good",
+            "description": "Conducted over 20 events on Software Development, AI, HCI reaching over 10K+ participants. Organized Winter School across 28 universities and 1500+ participants",
+            "duration": "Jun 2022 - May 2023",
+            "location" : "Tadepalligudem, India"
+        },
+        {
+            "role": "Executive Member",
+            "organization": "Literary & Debate Club, NIT Andhra Pradesh",
+            "link":"https://nitandhra.ac.in/main/lnd.php",
+            "category" : "Education and Literacy",
+            "type": "Leadership",
+            "description": "Organised various debate events and conducted the flagship debate expo Sweven.",
+            "duration": "Nov 2020 - May 2022",
+            "location" : "Tadepalligudem, India"
+        },
+        {
+            "role": "Executive Member",
+            "organization": "Shrestha Club",
+            "link":"https://shresthaclub.com/",
+            "category" : "Health and Wellness",
+            "type": "Leadership",
+            "description": "Volunteered to help spread the idea of peaceful productivity and time management without burnout.",
+            "duration": "Aug 2021 - May 2022",
+            "location" : "Tadepalligudem, India"
+        },
+        {
+            "role": "Executive Member",
+            "organization": "E-Cell, NIT Andhra Pradesh",
+            "link":"https://nitandhra.ac.in/main/elcell.php",
+            "category" : "Social Justice and Advocacy",
+            "type": "Leadership",
+            "description": "Conducted various events on entrepreneurship for social good.",
+            "duration": "Nov 2020 - May 2022",
+            "location" : "Tadepalligudem, India"
+        }
+    ]
+  }
+  

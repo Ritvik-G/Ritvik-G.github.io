@@ -1,0 +1,39 @@
+/* Navbar styles */
+.navbar {
+    background-color: var(--navbar-background);
+    color: var(--text-color);
+  }
+
+.navbar-offcanvas {
+background-color: var(--elements-background-color);
+color: var(--text-color);
+}
+
+
+
+/* Navbar.Brand styles */
+.navbar-light-brand, .navbar-dark-brand {
+    color: red
+  }
+  
+  
+
+  .navbar-light, .navbar-dark {
+    background-color: var(--navbar-background);
+    color: var(--text-color);
+  }
+  
+  
+/* Nav.Link styles */
+.navbar .navbar-nav .nav-link{
+    color: var(--navbar-text-color);
+}
+.navbar .navbar-nav .nav-link:hover{
+    color: red;
+}
+.navbar-brand{
+    color: red;
+}
+.navbar-brand:hover{
+    color: var(--navbar-text-color);
+}

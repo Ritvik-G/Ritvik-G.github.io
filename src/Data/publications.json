@@ -1,0 +1,23 @@
+{
+    "Publications": [
+        {
+            "title": "Exploring The Potential of Large Language Models for Assisting with Mental Health Diagnostic Assessments: The Depression and Anxiety Case",
+            "authors": ["Kaushik Roy", "Harshul Surana","Darssan Eswaramoorthi","Yuxin Zi","Vedant Palit","Ritvik Garimella","Amit Sheth"],
+            "type" : "Journal",
+            "publication": "ACM Transactions on Computing for Healthcare",
+            "description": "Explores the use of LLMs in diagnostic assessments for major depressive disorder (MDD) and generalized anxiety disorder (GAD) by guiding them to replicate standard clinical procedures using prompting and fine-tuning techniques, evaluating their agreement with expert-validated diagnoses.",
+            "date": "2025",
+            "link": "https://scholarcommons.sc.edu/aii_fac_pub/623/"
+        },
+        {
+            "title": "FACTIFY3M: A benchmark for multimodal fact verification with explainability through 5W Question-Answering",
+            "authors": ["Megha Chakraborty", "Khusbu Pahwa", "Anku Rani", "Adarsh Mahor", "Aditya Pakala", "Arghya Sarkar", "Harshit Dave", "Ritvik Garimella", "Ishan Paul", "Janvita Reddy", "Preethi Gurumurthy", "Samahriti Mukherjee", "Shreyas Chatterjee", "Kinjal Sensharma", "Dwip Dalal", "Shreyash Mishra", "Parth Patwa", "Aman Chadha", "Amit Sheth", "Amitava Das"],
+            "type": "Conference",
+            "publication": "Empirical Methods in Natural Language Processing (EMNLP)",
+            "description": "A multimodal fake news dataset with 3 million samples designed to enhance scalable fact verification by integrating textual claims, paraphrases, images, visual explainability, 5W QA pairs, and adversarial fake news stories to combat the growing threat of disinformation.",
+            "date": "2023",
+            "link": "https://aclanthology.org/2023.emnlp-main.945/"
+        }
+    ]
+  }
+  

@@ -1,0 +1,33 @@
+{
+    "Education": [
+        {
+            "institution": "University of South Carolina",
+            "link" : "https://sc.edu/",
+            "location": "Columbia, South Carolina, USA",
+            "degree": "M.Sc. in Computer Science",
+            "duration": "2024 - Present"
+        },
+        {
+            "institution": "National Institute of Technology, Andhra Pradesh",
+            "link" : "https://nitandhra.ac.in/main/",
+            "location": "Tadepalligudem, India",
+            "degree": "B.Tech in Computer Science and Engineering",
+            "duration": "2020 - 2024"
+        },
+        {
+            "institution": "Sri Kumaran Children Home",
+            "link" : "https://kumarans.org/",
+            "location": "Bengaluru, India",
+            "degree": "High School Diploma in PCM & Computers",
+            "duration": "2018 - 2020"
+        },
+        {
+            "institution": "Bangalore International Public School",
+            "link" : "https://www.bips.co.in/",
+            "location": "Bengaluru, India",
+            "degree": "Schooling - Grade 1 to 10",
+            "duration": "2008 - 2018"
+        }
+    ]
+  }
+  

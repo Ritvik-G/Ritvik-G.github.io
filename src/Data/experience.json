@@ -1,0 +1,105 @@
+{
+    "Experience": [
+      {
+        "role": "Graduate Research Assistant",
+        "location": "Columbia, SC, USA",
+        "type" : "Full Time",
+        "category" : "Research",
+        "description": "Developing AI Frameworks incorporating Neurosymbolic methods for usecases of social good.",
+        "organization": "AI Institute at UofSC",
+        "link":"https://aiisc.ai/",
+        "duration": "Jul 2024 - Present"
+      },
+      {
+        "role": "Research Specialist I",
+        "location": "Columbia, SC, USA",
+        "type" : "Internship",
+        "category" : "Research",
+        "description": "Worked on creation of Multimodal Fact Verification Dataset - Factify3M. \n Published a paper in EMNLP 2023.",
+        "organization": "AI Institute at UofSC",
+        "link":"https://aiisc.ai/",
+        "duration": "Jan 2024 - May 2024"
+      },
+      {
+        "role": "Research Affiliate",
+        "location": "Remote",
+        "type" : "Internship",
+        "category" : "Research",
+        "description": "Worked on creation of Multimodal Fact Verification Dataset - Factify3M. \n Published a paper in EMNLP 2023.",
+        "organization": "AI Institute at UofSC",
+        "link":"https://aiisc.ai/",
+        "duration": "Sep 2022 - Dec 2023"
+      },
+      {
+        "role": "Software Development Intern",
+        "location": "Bengaluru, India",
+        "type" : "Internship",
+        "category" : "Industry",
+        "description": "1. Developed a website for an AI based postural analysis and sport bio-mechanical analysis using MERN stack \n 2. Built a chatbot with source identification for answering questions on fitness and nutrition with the use of BERT models \n 3. Advanced a Computer Vision model [MoveNet] for enhanced body posture analysis",
+        "organization": "IISc Bengaluru",
+        "link" : "https://artpark.in/",
+        "duration": "Jul 2022 - Mar 2023"
+      },
+      {
+        "role": "Full Stack Developer",
+        "location": "Madras, India",
+        "type" : "Part-Time",
+        "category" : "Industry",
+        "description": "Created a full stack website for Kaatru using MERN stack. Representation of data on embedded maps for better understanding of weather and road conditions for best route estimation between source and destination.",
+        "organization": "IIT Madras",
+        "link":"https://www.kaatru.org/",
+        "duration": "Jun 2022 - Aug 2022"
+      },
+      {
+        "role": "Machine Learning Intern",
+        "location": "Bhopal, India",
+        "type" : "Internship",
+        "category" : "Research",
+        "description": "Worked in the area of Computer Vision to create a model for classification between smoking and non-smoking person.",
+        "organization": "IISER Bhopal",
+        "link":"https://www.iiserb.ac.in/",
+        "duration": "May 2022 - Jul 2022"
+      },
+      {
+        "role": "Full Stack Intern",
+        "location": "Tadepalligudem, India",
+        "type" : "Internship",
+        "category" : "Industry",
+        "description": "Worked under Alumni Association to create alumni website [Alma Connect] for NIT Andhra Pradesh.",
+        "organization": "NIT Andhra Pradesh",
+        "link":"https://nitandhra.ac.in/main/",
+        "duration": "Oct 2021 - Jun 2022"
+      },
+      {
+        "role": "R&D Intern",
+        "location": "Remote",
+        "type" : "Internship",
+        "category" : "Research",
+        "description": "Worked in the area of Search, Ranking and Information Retrieval using Python for intelligent web scraping.",
+        "organization": "Deep Element AI",
+        "link":"https://www.deepelement.ai/",
+        "duration": "Nov 2021 - Dec 2021"
+      },
+      {
+        "role": "Programming Mentor",
+        "location": "Remote",
+        "type" : "Internship",
+        "category" : "Industry",
+        "description": "Worked as a mentor to students from grade 1-12 teaching programming languages and web development concepts.",
+        "organization": "Tekie Inc.",
+        "link":"https://www.tekie.in/",
+        "duration": "Oct 2020 - Mar 2021"
+      },
+      {
+        "role": "Full Stack Intern",
+        "location": "Bengaluru, India",
+        "type" : "Internship",
+        "category" : "Industry",
+        "description": "Worked as a full stack developer under Cisco Talent Outreach Program to develop school's library management system.",
+        "organization": "Cisco",
+        "link":"https://www.cisco.com/",
+        "duration": "Jun 2018 - Jan 2019"
+      }
+    ]
+  }
+  

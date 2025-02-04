@@ -1,0 +1,157 @@
+
+.page{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 50px;
+    margin-top: 75px;
+}
+
+.title{
+    width: 100%;
+    padding: 25px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+.subtitle{
+    text-align: justify;
+    width: 70%;
+}
+
+.about{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-left: 15%;
+    margin-right: 15%;
+    width: 70%;
+    border-radius: 15px;
+    text-align: justify;
+    margin-bottom: 50px;
+}
+
+.content{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content:center;
+    width: 70%;
+}
+
+.item{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-bottom: 15px;
+}
+
+.headings > h5 {
+    overflow: hidden;
+  }
+.headings > h6 {
+    margin-top: -5px;
+}
+.headings > p {
+    margin-top: -5px;
+  }
+
+.profile-card{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-left: 15%;
+    margin-right: 15%;
+    border-radius: 15px;
+    justify-content: space-between;
+    background-color:#f1f5f9;
+    margin-top: 75px;
+}
+
+.profile-card-content{
+    margin: 3%;
+    max-height: 550px;
+    overflow: scroll;
+}
+
+.title{
+    background-color: #f1f5f9;
+}
+
+
+
+@media (max-width: 950px) {
+    .profile-card{
+        flex-direction: column-reverse;
+        background-color: #fff;
+    }
+    .profile-card#home-middle-div{
+        flex-direction: column;
+        background-color: #fff;
+    }
+    .profile-image{
+        border-radius: 5%;
+        margin-bottom: 3%;
+    }
+}
+
+
+
+
+/* Light mode (default) */
+:root {
+    --background-color: #fff;
+    --elements-background-color: #f1f5f9;
+    --text-color: #000;
+    --heading-color: #1e293b; /* Color for headings */
+    --navbar-text-color:#727272;
+  }
+  
+  /* Dark mode */
+  [data-theme="dark"] {
+    --background-color: #0F172A;
+    --elements-background-color: #1E293B;
+    --text-color: #D7DADC; /* Light text for dark background */
+    --heading-color: #E2E8F0; /* Light color for headings in dark mode */
+    --navbar-text-color:#E2E8F0;
+  }
+  
+  
+/* Apply text colors globally */
+body {
+    background-color: var(--background-color); /* Set body background */
+  color: var(--text-color); /* Set default text color */
+}
+
+
+.footer{
+    background-color: var(--background-color);
+  color: var(--text-color);
+}
+  
+  h1, h2, h3, h4, h5, h6 {
+    color: var(--heading-color);
+  }
+  
+  p, span, a, li {
+    color: var(--text-color);
+  }
+  .title {
+    background-color: var(--elements-background-color);
+    color: var(--text-color);
+  }
+  
+  .profile-card {
+    background-color: var(--elements-background-color);
+    color: var(--text-color);
+  }
+  
+  @media (max-width: 950px) {
+    .profile-card {
+      background-color: var(--card-background-color);
+    }
+    .profile-card#home-middle-div {
+      background-color: var(--card-background-color);
+    }
+  }

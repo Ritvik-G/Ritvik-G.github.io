@@ -1,0 +1,38 @@
+{
+    "Skills": {
+        "Industry Knowledge": [
+            "Algorithms",
+            "Machine Learning",
+            "Natural Language Processing",
+            "Computer Vision",
+            "Full Stack Development",
+            "Knowledge Graphs"
+        ],
+        "Programming Languages": [
+            "Python",
+            "Javascript",
+            "Java",
+            "C",
+            "C++"
+        ],
+        "Web Frameworks": [
+            "ReactJS",
+            "Django"
+        ],
+        "Databases": [
+            "MySQL",
+            "MongoDB",
+            "PostgreSQL",
+            "Oracle",
+            "SQLite"
+        ],
+        "Interpersonal Skills": [
+            "Leadership",
+            "Model United Nations",
+            "Team Work",
+            "Adaptability",
+            "Empathy"
+        ]
+    }
+}
+  
